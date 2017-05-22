@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="username_error">User name incorrect</string>
+    <string name="password_error">Password not correct</string>
+    <string name="login_error">Login Error</string>
+</resources>
