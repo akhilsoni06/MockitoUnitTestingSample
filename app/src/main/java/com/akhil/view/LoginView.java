@@ -7,9 +7,9 @@ package com.akhil.view;
 public interface LoginView {
 
 
-    String getUserName();
+     String getUserName();
 
-    String getPassword();
+     String getPassword();
 
     void setUserNameError(int resId);
 
